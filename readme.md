@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 <div style="text-align: center;">
 Visitor Count  
 
-![Visitor Count](https://profile-counter.glitch.me/{anamariasolomon}/count.svg)
+![](https://visitcount.itsvg.in/api?id=anasolomon&icon=0&color=0)
 </div>
